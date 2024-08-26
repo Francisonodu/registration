@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+.school{
+    width: 200px;
+    height: 30px;
+    padding-left: 15px;
+}
+.house{
+    background-color:beige;
+    width: 200px;
+    height: 30px;
+    color: black;
+}
+.workplace{
+    color: blue;
+}
+.teachers{
+    width: 200px;
+    height: 30px;
+    padding-right: 15px;
+}
+.student{
+    color: blue;
+}
+.pupils{
+    background-color: beige;
+    width: 200px;
+    height: 30px;
+    color: blue;
+}
